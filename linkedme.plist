@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://is3.mzstatic.com/image/thumb/Purple127/v4/7a/97/72/7a977261-5307-a9ee-fc61-d665751f0fab/source/512x512bb.jpg</string>  
+                    <string>https://github.com/ljpww72729/ios_plist/raw/master/linkedme.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://is3.mzstatic.com/image/thumb/Purple127/v4/7a/97/72/7a977261-5307-a9ee-fc61-d665751f0fab/source/512x512bb.jpg</string>  
+                    <string>https://github.com/ljpww72729/ios_plist/raw/master/linkedme.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
